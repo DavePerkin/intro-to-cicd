@@ -3,3 +3,4 @@ function sayHi(name) {
 }
 
 module.exports = sayHi
+// here is a comment.  Not too sure why... 
